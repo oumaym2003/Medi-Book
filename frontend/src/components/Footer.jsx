@@ -8,7 +8,7 @@ export default function Footer() {
           <span className="mb-brand sm">
             <span className="mb-logo sm"><Stethoscope size={16} /></span> MediBook
           </span>
-          <p className="mb-footer-signature">Projet Oumayma Bouyahia · Ma empreinte.</p>
+          <p className="mb-footer-signature">Projet de Oumayma Bouyahia.</p>
         </div>
         <p>Projet portfolio — Plateforme de prise de rendez-vous médicaux.</p>
         <span className="mb-footer-copy">© {new Date().getFullYear()} MediBook</span>
