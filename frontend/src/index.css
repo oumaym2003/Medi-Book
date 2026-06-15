@@ -171,6 +171,8 @@ a{text-decoration:none;color:inherit;}
 .mb-footer{border-top:1px solid var(--line);background:var(--surface);margin-top:40px;}
 .mb-footer-inner{max-width:1140px;margin:0 auto;padding:30px 24px;display:flex;align-items:center;
   justify-content:space-between;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:.9rem;}
+.mb-footer-branding{display:flex;flex-direction:column;gap:8px;}
+.mb-footer-signature{margin:0;color:var(--ink);font-weight:600;font-size:.92rem;}
 
 /* Responsive */
 @media(max-width:860px){
